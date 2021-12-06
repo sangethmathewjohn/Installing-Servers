@@ -8,3 +8,9 @@ NGNIX, APACHE, MYSQL, PHP ....
     sudo /etc/init.d/apache2 start
     sudo /etc/init.d/apache2 stop
     sudo /etc/init.d/apache2 restart
+
+## Install Nginx.
+
+    sudo apt install nginx
+    
+    
