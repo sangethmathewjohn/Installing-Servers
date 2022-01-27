@@ -1,7 +1,7 @@
 # Installing-Servers
-NGNIX, APACHE, MYSQL, PHP ....
+NGNIX, APACHE....
 
-## Install Apache2.
+## Installing Apache2.
 
     sudo apt install apache2
     sudo /etc/init.d/apache2 status
